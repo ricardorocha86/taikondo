@@ -7,7 +7,7 @@ st.set_page_config(
     layout="centered",
     initial_sidebar_state="expanded")
 
-st.logo("arquivos/logo.png") 
+st.logo("arquivos/logo.png", size = 'large') 
 
 paginas = {
     "LTC - Lee Taekwondo Clube": [
